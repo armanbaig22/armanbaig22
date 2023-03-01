@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @armanbaig22
-- 👀 I’m interested in programming and entrepreneurship
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 Acquiring knowledge in the latest technology
+- 🌱 I’m currently learning OpenGL and Neural Networks
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Reach me on armanbaig012@gmail.com
 
 <!---
